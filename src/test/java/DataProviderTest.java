@@ -14,7 +14,8 @@ public class DataProviderTest {
         return new Object[][]{
                 {1, 1, 2},
                 {2, 2, 4},
-                {2, 3, 5}
+                {2, 3, 5},
+                {6, 5, 11}
         };
     }
 
